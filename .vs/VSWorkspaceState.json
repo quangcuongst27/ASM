@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AsmSolution",
+    "\\AsmSolution\\ASM.Web.API",
+    "\\AsmSolution\\ASM.Web.API\\bin",
+    "\\AsmSolution\\DataService",
+    "\\AsmSolution\\DataService\\Models",
+    "\\AsmSolution\\WebApplication1",
+    "\\AsmSolution\\WebApplication1\\obj",
+    "\\AsmSolution\\WebApplication1\\obj\\Debug",
+    "\\AsmSolution\\WebApplication1\\Pages",
+    "\\AsmSolution\\WebApplication1\\wwwroot"
+  ],
+  "SelectedNode": "\\AsmSolution\\DataService\\Models\\ApartmentDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
